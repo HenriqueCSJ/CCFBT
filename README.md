@@ -13,3 +13,5 @@ You'll find everything from rudimentary parsers to unassuming visualization tool
 So, whether you're a computational chemist tired of sifting through tedious data, a coding connoisseur looking for a laugh, or a programming newbie wanting to see what not to do, step into my CCFBT repository. It's not pretty, it's not sophisticated, but it gets the job done.
 
 When it comes to dealing with the boring stuff in computational chemistry, let my crappy code do the work. Remember, there's a certain beauty in code that gets things done, even if it isn't the belle of the ball!
+
+Oh, and I almost forgot: ORCA only!
