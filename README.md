@@ -2,8 +2,6 @@
 Crappy Code for Boring Tasks (CCFBT) is where I put random code for tasks that I am too lazy to do over and over.
 
 ---
-Title: Crappy Code for Boring Tasks (CCFBT)
-
 Description:
 
 Welcome to my quirky corner of the coding world, Crappy Code for Boring Tasks (CCFBT). It's a little like a box full of random stuff, cluttered with scripts that have one thing in common – they don't care about looking pretty, only about getting (**MY**) job done.
